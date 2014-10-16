@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aui:home|Door43 (aui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aui|d43-aui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aui/archive/master.zip|d43-aui.zip]]
+
+**Recent Changes**
+{{changes>ns = aui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aui|Ethnologue data]]
+
